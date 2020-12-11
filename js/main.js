@@ -8,3 +8,4 @@ function ask(question, yes, no) {
     () => alert("Вы согласились."),
     () => alert("Вы отменили выполнение.")
   );
+
